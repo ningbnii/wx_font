@@ -1,0 +1,23 @@
+/**index.wxss**/
+.test{
+	color: #ff1177;
+	/* font-size: 50rpx; */
+	/* line-height: 50rpx; */
+	text-align: center;
+	white-space: nowrap;
+	transform-origin: left top;
+	transform: rotate(90deg);
+	position: absolute;
+	margin-left: 30rpx;
+	font-family: 幼圆;
+	/* left: calc( 50vw + 50rpx/2 ); */
+	/* top: 0; */
+	text-shadow: 0 0 10px #fff,
+               0 0 20px  #fff,
+               0 0 30px  #fff,
+               0 0 40px  #FF1177,
+               0 0 70px  #FF1177,
+               0 0 80px  #FF1177,
+               0 0 100px #FF1177,
+               0 0 150px #FF1177;
+}

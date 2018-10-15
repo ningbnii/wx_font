@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <text class="test" id="test" style="font-size: {{fontSize}}rpx;line-height: {{fontSize}}rpx;left: calc( 50vw + {{fontSize}}rpx/2 )" bindtap="changeStyle">你好中国</text>
+</view>
